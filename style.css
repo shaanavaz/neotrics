@@ -9,7 +9,7 @@ body {
 
 /* Navbar */
 .navbar-brand img {
-    max-height: 80px;
+    max-height: 160px;
     width: auto;
 }
 
@@ -80,3 +80,4 @@ footer {
     font-size: 0.9rem;
 
 }
+
